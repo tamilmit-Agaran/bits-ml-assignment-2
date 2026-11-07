@@ -9,8 +9,8 @@ This workspace builds an integrated computational framework to accurately separa
 - **Key Attributes Evaluated:** Nuclear radius, perimeter dimensions, texture variance values, tissue compactness indices, concavity depths, and fractal dimensions.
 
 ## c. GitHub Repository Link
-- **Repository URL:** [Insert Your GitHub Repo URL Here]
-- **Streamlit Live Link:** [Insert Your Live Streamlit Application Link Here]
+- **Repository URL:** [https://github.com/tamilmit-Agaran/bits-ml-assignment-2/tree/main](https://github.com/tamilmit-Agaran/bits-ml-assignment-2/tree/main)
+- **Streamlit Live Link:** [https://pvme3rgumepzxs3xweappe7.streamlit.app](https://pvme3rgumepzxs3xweappe7.streamlit.app)
 
 ## d. Models Used & Performance Evaluation
 
@@ -21,8 +21,8 @@ This workspace builds an integrated computational framework to accurately separa
 | LOGREG MODEL      |     0.9790 | 0.9975 |      0.9778 |   0.9888 | 0.9832 | 0.9554 |
 | DTREE MODEL       |     0.9371 | 0.9419 |      0.9545 |   0.9438 | 0.9492 | 0.8665 |
 | KNN MODEL         |     0.9650 | 0.9922 |      0.9565 |   0.9888 | 0.9724 | 0.9259 |
-| GNB MODEL         |     0.9371 | 0.9859 |      0.9355 |   0.9663 | 0.9506 | 0.8659 |
-| SVM MODEL         |     0.9720 | 0.9964 |      0.9670 |   0.9888 | 0.9778 | 0.9405 |
+| GNB MODEL         |     0.9371 | 0.9859 |      0.9878 |   0.9667 | 0.9508 | 0.8644 |
+| SVM MODEL         |     0.9790 | 0.9969 |      0.9888 |   0.9778 | 0.9832 | 0.9553 |
 
 ### Performance Observations
 
