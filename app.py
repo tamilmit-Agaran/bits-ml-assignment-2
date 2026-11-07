@@ -80,7 +80,7 @@ if uploaded_stream_file is not None:
                     st.markdown("### Confusion Distribution Heatmap")
                     computed_confusion_matrix = confusion_matrix(eval_true_labels, inferred_vectors)
                     fig_canvas, axis_handle = plt.subplots(figsize=(4.5, 3.5))
-                    sns.heatmap(computed_confusion_matrix, annot=True, fmt='d', cmap='Teals', cbar=False,
+                    sns.heatmap(computed_confusion_matrix, annot=True, fmt='d', cmap='Blues', cbar=False,
                                 xticklabels=['Malignant (0)', 'Benign (1)'],
                                 yticklabels=['Malignant (0)', 'Benign (1)'], ax=axis_handle)
                     axis_handle.set_ylabel('True Clinical Target')
